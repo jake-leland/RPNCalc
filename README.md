@@ -1,7 +1,7 @@
 RPNCalc
 =======
 
-A (sort-of) Reverse Polish Notation Calculator
+A (sort-of) Reverse Polish Notation Calculator.
 
 Note: This is a [Processing](http://processing.org/) sketch.
 
