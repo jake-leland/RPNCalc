@@ -3,7 +3,7 @@ RPNCalc
 
 A (sort-of) Reverse Polish Notation Calculator.
 
-Note: This is a [Processing](http://processing.org/) sketch.
+*Note: This is a [Processing](http://processing.org/) sketch.*
 
 This program is not true RPN; it's more like postfix math (very similar). It takes in a string and does all of the math at once.
 You can click the buttons on the calculator or use your keyboard to enter the math (a space differentiates between separate entries), then press enter to calculate.
